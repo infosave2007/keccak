@@ -1,0 +1,29 @@
+# Composer
+/vendor/
+composer.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tests and development files
+/test/
+/tests/
+benchmark*.php
+debug*.php
+test*.php
+OPTIMIZATION_REPORT.md
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
