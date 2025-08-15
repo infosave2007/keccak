@@ -1,12 +1,12 @@
 {
-    "name": "infosave2007/keccak-optimized",
+    "name": "infosave2007/keccak",
     "description": "Ultra-high performance Keccak (SHA-3) implementation in pure PHP - up to 53.6% faster",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "infosave2007",
-            "homepage": "https://github.com/infosave2007/keccak-optimized"
+            "homepage": "https://github.com/infosave2007/keccak"
         }
     ],
     "keywords": [

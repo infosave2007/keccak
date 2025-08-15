@@ -14,7 +14,6 @@ composer.lock
 Thumbs.db
 
 # Tests and development files
-/test/
 /tests/
 benchmark*.php
 debug*.php

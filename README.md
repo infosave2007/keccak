@@ -13,7 +13,7 @@ Ultra-optimized pure PHP implementation of Keccak (SHA-3) hash function, deliver
 ## 📦 Installation
 
 ```bash
-composer require infosave2007/keccak-optimized
+composer require infosave2007/keccak
 ```
 
 ## 🔧 Basic Usage
